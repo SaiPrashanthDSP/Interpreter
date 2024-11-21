@@ -5,3 +5,11 @@
 <expression> ::= <term> (("+" | "-") <term>)*
 <term>       ::= <factor> (("*" | "/") <factor>)*
 <factor>     ::= <number> | <identifier>
+
+
+Applicable for
+a = 5
+print a
+ b = 2
+ c = a+b*5
+ print c

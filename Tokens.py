@@ -1,0 +1,14 @@
+# Token types
+NUMBER = 'NUMBER'
+IDENTIFIER = 'IDENTIFIER'
+PLUS = 'PLUS'
+MINUS = 'MINUS'
+MULTIPLY = 'MULTIPLY'
+DIVIDE = 'DIVIDE'
+ASSIGN = 'ASSIGN'
+PRINT = 'PRINT'
+EOF = 'EOF'
+LET = 'LET'
+SEMI = 'SEMI'
+LPAREN = 'LPAREN'  # Left parenthesis
+RPAREN = 'RPAREN'  # Right parenthesis
